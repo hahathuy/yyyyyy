@@ -1,2 +1,1 @@
-# yyyyyy
-yyyyyy
+.env.example
